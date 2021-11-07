@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jusdbexperts
-- 👀 I’m interested in powering startups with database solutions
+- 👀 I’m interested in solving database bottlenecks in startups
 - 🌱 I’m currently learning scaling DBA as Service
 - 💞️ I’m looking to collaborate on Database Reliablity 
 - 📫 Reach me at jusdbexperts@gmail.com
